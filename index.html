@@ -21,11 +21,11 @@
   <div class="container">
     <div class="main">
       <h2>⌨️ TYPER 3000 ⌨️</h2>
-      <p>Escribí la siguiente palabra:</p>
+      <p id="esconder">Escribe la siguiente palabra:</p>
 
       <h1 id="randomWord"></h1>
 
-      <input type="text" id="text" autocomplete="off" placeholder="Type the word here..." onkeypress="evaluar()" />
+      <input type="text" id="text" autocomplete="off" placeholder="Type the word here" onkeypress="evaluar()" />
 
       <p id="timeDown" class="time-container">
         Tiempo restante: <span id="timeSpan">Inicia</span>
