@@ -1,11 +1,16 @@
+* {
+    text-align: center;
+
+}
+
 body {
     background-color: rgb(15, 109, 141);
+    text-align: center;
 
 }
 .container {
     padding: 50px;
     background-image: url(https://www.portalprogramas.com/imagenes/programas/es/998/7998_1.jpg);
-    text-align: center;
     color: #42C920;
 }
 
@@ -16,7 +21,6 @@ h2 {
 
 p {
     background: hsla(0, 0%, 0%, 0.75);
-    text-align: center;
     font-size: 25px;
     font-family: 'Lobster', cursive;
     font-family: 'Tapestry', cursive;
@@ -41,7 +45,6 @@ input {
 }
 
 #text {
-    text-align: center;
     background-color: #b8e2ae;
     font-size: 150%;
 }
