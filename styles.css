@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(15, 109, 141);
+
+}
+.container {
+    padding: 50px;
+    background-image: url(https://www.portalprogramas.com/imagenes/programas/es/998/7998_1.jpg);
+    text-align: center;
+    color: #42C920;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 350%;
+}
+
+p {
+    background: hsla(0, 0%, 0%, 0.75);
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Tapestry', cursive;
+    }
+}
+
+button {
+    text-align: center;
+    background-color: red;
+}
+
+input {
+    border-radius: 5px;
+    background-color: #def;
+    border: 1px solid #39c;
+    height: 35px;
+
+}
+
+#score {
+    font-size: 250%;
+}
+
+#text {
+    text-align: center;
+    background-color: #b8e2ae;
+    font-size: 150%;
+}
+
+button {
+    box-shadow: inset 1px 1px gold;
+    height: 35px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #42C920;
+    font-size: 120%;
+    font-family: 'Lobster', cursive;
+}
+
+.anotherclass {
+    
+    font-size: 250%;
+    padding-top: 50px;
+    height: 150px;
+    color: #42C920;
+}
