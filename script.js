@@ -72,7 +72,7 @@ function evaluar() {
 
         /////console.log("Buen trabajo");
 
-        score += 2;
+        score += 1;
 
         time = time + 3;
 
