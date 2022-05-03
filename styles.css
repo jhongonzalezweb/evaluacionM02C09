@@ -1,13 +1,12 @@
 * {
     text-align: center;
-
 }
 
 body {
     background-color: rgb(15, 109, 141);
     text-align: center;
-
 }
+
 .container {
     padding: 50px;
     background-image: url(https://www.portalprogramas.com/imagenes/programas/es/998/7998_1.jpg);
@@ -25,7 +24,6 @@ p {
     font-family: 'Lobster', cursive;
     font-family: 'Tapestry', cursive;
     }
-}
 
 button {
     text-align: center;
@@ -37,7 +35,6 @@ input {
     background-color: #def;
     border: 1px solid #39c;
     height: 35px;
-
 }
 
 #score {
@@ -60,7 +57,6 @@ button {
 }
 
 .anotherclass {
-    
     font-size: 250%;
     padding-top: 50px;
     height: 150px;
