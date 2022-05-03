@@ -60,7 +60,7 @@ function evaluar() {
     var palabraIngresada = document.getElementById("text").value;
     if (palabraIngresada == randomW) {
 
-        score += 2;
+        score += 1;
         time = time + 3;
         document.getElementById("timeSpan").innerHTML = time + " s";
         document.getElementById("score").innerHTML = score;
