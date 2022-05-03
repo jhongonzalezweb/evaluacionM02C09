@@ -54,7 +54,6 @@ function addToDOM() {
 }
 
 var addToDOM = addToDOM();
-console.log(addToDOM);
 
 // funcion que evalua si la palabra ingresada es la misma que la posicion del arreglo
 function evaluar() {
@@ -74,8 +73,7 @@ function evaluar() {
             return addTo;
         }
 
-        var addToDomAgainVar = addToDomAgain();
-        console.log(addToDomAgainVar);
+        addToDomAgain();
     }
 }
 
@@ -107,7 +105,6 @@ function actualizarTiempo() {
 
 // funcion donde realiza la detencion del contador
 function myStop() {
-    console.log("Entre al log donde muere el time");
     clearInterval(timeInterval);
 }
 
